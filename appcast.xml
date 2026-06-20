@@ -4,11 +4,11 @@
         <title>AppTV</title>
         <item>
             <title>1.2</title>
-            <pubDate>Sat, 20 Jun 2026 20:42:30 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
+            <pubDate>Sat, 20 Jun 2026 21:36:23 +0200</pubDate>
+            <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2944532" type="application/octet-stream" sparkle:edSignature="9X3Al8KmLHdg1jNXQekJtCMoME4olakckRA2gyVOoRKACGGUOA+6tpyiIsxMfpDgeAfsmq5pjiY1vEdm/p04BQ=="/>
+            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2942875" type="application/octet-stream" sparkle:edSignature="PP+d81iNp4QJ/ej4Q6q0ibyZJkPK4b0pnKyWImXrY8r4IhuaIA0few5w5rA9/CaQobVbaeEkdeNiTZdLoMl/Cw=="/>
         </item>
     </channel>
 </rss>
