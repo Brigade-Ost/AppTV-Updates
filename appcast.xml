@@ -4,19 +4,11 @@
         <title>AppTV</title>
         <item>
             <title>1.2</title>
-            <pubDate>Sat, 20 Jun 2026 19:01:44 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <pubDate>Sat, 20 Jun 2026 20:42:30 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosurehttps://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg length="2944423" type="application/octet-stream" sparkle:edSignature="/rR0rpcdlaC/Mk8DVPhASxKWCvqY5nyWYlJNNJEGs1yp15LjkBA0/tXFo8UFiUmmBEzOCePrIhP02BNwxGiAAA=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Sat, 20 Jun 2026 18:38:33 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosurehttps://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg length="2944379" type="application/octet-stream"/>
+            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2944532" type="application/octet-stream" sparkle:edSignature="9X3Al8KmLHdg1jNXQekJtCMoME4olakckRA2gyVOoRKACGGUOA+6tpyiIsxMfpDgeAfsmq5pjiY1vEdm/p04BQ=="/>
         </item>
     </channel>
 </rss>
