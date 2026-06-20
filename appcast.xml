@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AppTV</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Sun, 21 Jun 2026 00:11:09 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2519413" type="application/octet-stream" sparkle:edSignature="fnfNG98y3qweNCOQz5WBgnKVrAnPFXArUsCjkVw1nqyucr8GpcvRN/GYpNL91mcVzpUo6nhIjys8TA8pj4MwAA=="/>
+        </item>
+    </channel>
+</rss>
