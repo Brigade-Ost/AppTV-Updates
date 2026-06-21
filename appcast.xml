@@ -8,7 +8,7 @@
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2519413" type="application/octet-stream" sparkle:edSignature="fnfNG98y3qweNCOQz5WBgnKVrAnPFXArUsCjkVw1nqyucr8GpcvRN/GYpNL91mcVzpUo6nhIjys8TA8pj4MwAA=="/>
+            <enclosure url="https://Brigade-Ost.github.io/AppTV-Updates/AppTV-Installer.dmg" length="2519361" type="application/octet-stream" sparkle:edSignature="EvI8DkVRkg7pbUvsYVIYgcrpL9j7zYWmw/XmzCwI3RAn4ixiUX1YLPIagDxYboU6XZm/ANwGy0n64EE/mh38CA=="/>
         </item>
     </channel>
 </rss>
